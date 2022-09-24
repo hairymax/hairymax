@@ -1,9 +1,9 @@
 ## Hi, I'm Maxim 👋
 ### Python programmer, Data Scientist
 
-I love to do things with Python.
-After trying to use machine learning for my research tasks, I got too involved.
-I took a professional retraining course "Data Scientist" at Yandex.Practicum, and now I am developing in DS.
+I love to do things with Python.  
+After trying to use machine learning for my research tasks, I got too involved.  
+I took a professional retraining course "Data Scientist" at Yandex.Practicum, and now I am developing in DS.  
 Check my Computer Vision projects.
 
 - 🔭 I’m currently a researcher, doing mathematical modeling of quantum systems using Python and ML
