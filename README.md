@@ -6,7 +6,7 @@ After trying to use machine learning for my research tasks, I got too involved.
 I took a professional retraining course "Data Scientist" at Yandex.Practicum, and now I am developing in DS.  
 Check out my Computer Vision and other projects.
 
-- 🔭 I’m currently a researcher, doing mathematical modeling of quantum systems using Python and ML
+- 🔭 I’m currently performing Сomputer Vision and Machine Learning tasks at Sberbank's Internal Audit Service
 - 🌱 I’m currently learning Deep Learning, Computer Vision
 
 ### Contact with me
