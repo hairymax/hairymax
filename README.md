@@ -1,12 +1,12 @@
 ## Hi, I'm Maxim 👋
-### Python programmer, Data Scientist
+### Computer Vision Engeneer, Data Scientist
 
 I love to do things with Python!  
 After trying to use machine learning for my research tasks, I got too involved.  
-I took a professional retraining course "Data Scientist" at Yandex.Practicum, and now I am developing in DS.  
+I have had experience in applying computer vision skills in a bank's audit department, and now I am still developing in DS.  
 Check out my Computer Vision and other projects.
 
-- 🔭 I’m currently performing Сomputer Vision and Machine Learning tasks at Sberbank's Internal Audit Service
+- 🔭 I’m currently performing Сomputer Vision and Data Science tasks at Skoltech's Applied AI Center
 - 🌱 I’m currently learning Deep Learning, Computer Vision
 
 ### Contact with me
